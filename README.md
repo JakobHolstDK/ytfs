@@ -4,3 +4,4 @@ Create usage guide<br/>
 Upload videos to Youtube<br/>
 Selection of file system types (Possibly FUSE)<br/>
 Include cec-check of qrcodes and possibly multiple qrites of the same qr code<br/>
+Include metadata in files
