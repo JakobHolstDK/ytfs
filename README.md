@@ -1,6 +1,7 @@
 YTFS aims to save files as qrcodes enoded as frames in Youtube videos allowing unlimited backup of files<br/>
 TODO<br/>
 Upload videos to Youtube<br/>
+Download using yt-dlp (https://github.com/yt-dlp/yt-dlp/)<br/>
 gpg ecryption<br/>
 Create usage guide<br/>
 Selection of file system types (Possibly FUSE)<br/>
