@@ -11,4 +11,8 @@ Include metadata in files<br/>
 Research steganography<br/>
 <br/>
 Dependencies<br/>
-Imagemagic<br/>
+imagemagic<br/>
+sharutils<br/>
+qrencode<br/>
+zbar-tools<br/>
+ffmpeg<br/>
