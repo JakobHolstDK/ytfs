@@ -7,3 +7,4 @@ Create usage guide<br/>
 Selection of file system types (Possibly FUSE)<br/>
 Include cec-check of qrcodes and possibly multiple writes of the same qr code<br/>
 Include metadata in files<br/>
+Research steganography<br/>
